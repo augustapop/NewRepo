@@ -1,0 +1,12 @@
+.navbar-default {
+background: #ea6153;
+color: #FFFFFF;
+cursor: pointer;
+display: block;
+font-size: 17px;
+font-weight: bold;
+line-height: 30px;
+padding: 10px 17px;
+text-transform: uppercase;
+position: relative;
+}
